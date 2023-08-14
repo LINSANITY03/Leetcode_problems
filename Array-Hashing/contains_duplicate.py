@@ -1,3 +1,7 @@
+# Explanation
+
+# For every component in list, we can check if the component is in the set else we can add on to it.
+
 class Solution:
     def containsDuplicate(self, nums: list[int]) -> bool:
 

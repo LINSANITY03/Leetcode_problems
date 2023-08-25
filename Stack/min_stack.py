@@ -1,3 +1,11 @@
+# O(n)
+
+# first we initalize stack and minstack as a list
+# we append the val to stack and check the minimum value in minstack
+# we pop value from both stack and minstack
+# get the last value from stack as top
+# get the last value from minstack as getMin
+
 class MinStack:
     def __init__(self):
         self.stack = []

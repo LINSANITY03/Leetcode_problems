@@ -6,3 +6,4 @@ these are Neetcode 150 solutions from https://neetcode.io/practice
 2. Two-Pointer
 3. Sliding-Window
 4. Stack
+5. Binary-Search

@@ -8,3 +8,4 @@ these are Neetcode 150 solutions from https://neetcode.io/practice
 4. Stack
 5. Binary-Search
 6. Linked-List
+7. Trees

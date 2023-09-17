@@ -10,3 +10,4 @@ these are Neetcode 150 solutions from https://neetcode.io/practice
 6. Linked-List
 7. Trees
 8. Tries
+9. Heap/Priority Queue

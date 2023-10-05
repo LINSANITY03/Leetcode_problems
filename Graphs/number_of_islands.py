@@ -1,5 +1,14 @@
 import collections
 
+# check if the grid is 0 then return 0 as their is no islands
+# initially the islands is set to 0 and visit is a set
+# row and column of the grid
+# iterate the grid[rows][column] if it is 1 and not visited
+# then first increment the islands and dfs
+# if the rows and column is in boundary and element is 0 or visited return
+# then add the current position to visit
+# directions in 4 direct the dfs for each direction
+
 
 class Solution:
     def numIslands(self, grid: list[list[str]]) -> int:

@@ -1,3 +1,4 @@
+#
 class Solution:
     def alienOrder(self, words: list[str]) -> str:
         adj = {char: set() for word in words for char in word}

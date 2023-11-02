@@ -14,3 +14,4 @@ these are Neetcode 150 solutions from https://neetcode.io/practice
 10. Backtracking
 11. Graphs
 12. Advanced Graphs
+13. 1-D Dynamic Programming
